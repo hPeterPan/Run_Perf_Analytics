@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local logs and raw data
+logs/
+data/raw/
+
+# Local editor settings
+.vscode/
+
+# macOS
+.DS_Store
